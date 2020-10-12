@@ -1,14 +1,28 @@
+@media screen and (max-width: 480px){
+    body{
+        background: yellow;
+    }
+}
 body {
     background: rgb(173,173,173);
-background: linear-gradient(0deg, rgba(173,173,173,1) 0%, rgba(2,0,36,1) 100%);
+    background: linear-gradient(0deg, rgba(173,173,173,1) 0%, rgba(2,0,36,1) 100%);
 }
+#encabezado{
+    display: flex;
+    align-content: center;
+    width: 100%;
+    /* background: blue; */
+  }
+  #nombreconts{
+      /* background: red; */
+      width: 100%;
+  }
 #fotoperfil{
-    width: 300px;
-    height: 350px;
+    width: 30%;
+    height: 405px;
     border: inset;
 }
 #nombre{
-    margin-left: 100px;
     font-size: 100px;
     color: aliceblue;
     
@@ -26,11 +40,6 @@ background: linear-gradient(0deg, rgba(173,173,173,1) 0%, rgba(2,0,36,1) 100%);
     border-bottom-style: double;
     
 }
-#tcontac{
-    display: flex;
-    align-content: center;
-      width: 100%;
-  }
   #dcontac{
     display: flex;
     justify-content: space-evenly;
