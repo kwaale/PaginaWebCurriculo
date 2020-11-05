@@ -1,1 +1,1 @@
-Pagina https://kwaale.github.io/webcvknutwaale/
+Pagina https://kwaale.github.io/PaginaWebCurriculo/
