@@ -27,11 +27,13 @@ body {
       width: 65%;
   }
 #fotoperfil{
-    width: 30%;
+    width: 347px;
     height: 405px;
     border: inset;
 }
 #nombre{
+    display: flex;
+    text-align: center;
     font-size: 100px;
     color: aliceblue;
     
@@ -71,9 +73,7 @@ body {
     display: flex;
     justify-content: center;
     align-content: center;
-    flex-wrap: wrap;
-    width: 100%;
-    height: 400px;
+    flex-flow: wrap;
 }
 .compet{
     font-size: 25px;
