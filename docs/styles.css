@@ -1,7 +1,7 @@
 
 @media screen and (max-width: 500px){
     body {
-        background: linear-gradient(0deg, rgb(75, 29, 29) 0%, rgb(8, 54, 2) 100%);
+        background: rgb(6, 6, 61);
         border: 20px;
         border-style: groove;
         border-color: darkslategray;
