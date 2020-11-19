@@ -31,7 +31,7 @@ body {
 #nombre{
     display: flex;
     text-align: center;
-    font-size: 100px;
+    font-size: 80px;
     color: aliceblue;
 }
 #perfil{
@@ -48,8 +48,9 @@ body {
 .titul{
     font-size: 30px;
     color: white;
-    border-bottom-style: double;
+    text-decoration: underline double;
     
+    margin-left: 5%;
 }
   #icontacs{
     display: flex;
