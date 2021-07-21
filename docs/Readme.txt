@@ -1,5 +1,6 @@
 # Web CV
-# [Ver en web](kwaale.github.io/PaginaWebCurriculo/)
+
+## [Ver en web](kwaale.github.io/PaginaWebCurriculo/)
 
 Pagina https://kwaale.github.io/PaginaWebCurriculo/
 Pagina web currículo: fue creada con la intención inicial de que
